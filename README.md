@@ -1,4 +1,22 @@
-### Hi there 👋
+# Hello Everyone 👋🏽
+My name is **Luan Fabri**, 17 years old.
+
+## About me 🤌🏽
+I am a programmer and an editor, actually i am making **programation** in a superior course and upgrading my skills.<br>
+
+_"I make what i love, i love what i make"_.
+
+## Skills 📖
+
+- HTML
+- CSS
+- Javascript (Learning...)
+- C
+- PHP (little bit)
+
+## Quote of the day 🍷🗿
+_"Today I am **better** than yesterday, and tomorrow I will be **better** than today"_
+
 
 <!--
 **luannzin/luannzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
