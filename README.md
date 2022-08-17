@@ -18,6 +18,10 @@ _"I make what i love, i love what i make"_.
 ## Quote of the day 🍷🗿
 _"Today I am **better** than yesterday, and tomorrow I will be **better** than today"_
 
+## Commits
+
+  ![Snake animation](https://github.com/luannzin/luannzin/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **luannzin/luannzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
