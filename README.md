@@ -24,11 +24,6 @@ _"Today I am **better** than yesterday, and tomorrow I will be **better** than t
 <a href="https://www.linkedin.com/in/luan-fabri-023ba8248/" target="_blanked"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-## Commits
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-
 <!--
 **luannzin/luannzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
