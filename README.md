@@ -1,7 +1,7 @@
 # Hello Everyone 👋🏽
 My name is **Luan Fabri**, 17 years old.
 
-## About me 🤌🏽
+## About me 🎖️
 I am a developer and an editor, actually i am studying **web development** in a superior course and upgrading my skills.<br>
 
 _"I make what i love, i love what i make"_.
