@@ -18,6 +18,9 @@ _"I make what i love, i love what i make"_.
 ## Quote of the day 🍷🗿
 _"Today I am **better** than yesterday, and tomorrow I will be **better** than today"_
 
+## Social Media
+<a href="https://www.instagram.com/luan_fabrii" target="_blanked"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
 ## Commits
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
