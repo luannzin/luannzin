@@ -20,7 +20,7 @@ _"Today I am **better** than yesterday, and tomorrow I will be **better** than t
 
 ## Commits
 
-  ![Snake animation](https://github.com/luannzin/luannzin/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
