@@ -10,6 +10,7 @@ _"I make what i love, i love what i make"_.
 
 - HTML
 - CSS
+- SCSS (SASS)
 - Javascript (Learning...)
 - C
 - PHP (little bit)
