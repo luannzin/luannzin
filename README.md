@@ -2,7 +2,7 @@
 My name is **Luan Fabri**, 17 years old.
 
 ## About me 🤌🏽
-I am a programmer and an editor, actually i am making **programation** in a superior course and upgrading my skills.<br>
+I am a programmer and an editor, actually i am studying **programation** in a superior course and upgrading my skills.<br>
 
 _"I make what i love, i love what i make"_.
 
