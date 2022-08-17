@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 # Hello Everyone 👋🏽
 My name is **Luan Fabri**, 17 years old.
 
@@ -11,7 +9,7 @@ _"I make what i love, i love what i make"_.
 ## Skills 📖
 
 - HTML
-- CSS <i class="devicon-css3-plain"></i>
+- CSS
 - SCSS (SASS)
 - Javascript (Learning...)
 - C
