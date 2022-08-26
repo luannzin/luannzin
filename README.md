@@ -23,9 +23,6 @@ _"Today I am **better** than yesterday, and tomorrow I will be **better** than t
 
 <a href="https://www.linkedin.com/in/luan-fabri-023ba8248/" target="_blanked"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-## Contact Me
-Phone Number: (14) 99658-9643 <br>
-Personal Email: luandaniel966@gmail.com
 
 
 <!--
