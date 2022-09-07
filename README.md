@@ -14,6 +14,7 @@ _"I make what i love, i love what i make"_.
 - Javascript (Learning...)
 - C
 - PHP (little bit)
+- Design (yes, i know much about design)
 
 ## Quote of the day 🍷🗿
 _"Today I am **better** than yesterday, and tomorrow I will be **better** than today"_
