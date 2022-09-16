@@ -6,8 +6,8 @@ I am a web developer and UX/UI Designer, actually i am studying **web developmen
 
 _"I make what i love, i love what i make"_.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luannzin&show_icons=true&theme=radical) <br> <br> <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luannzin&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luannzin&show_icons=true&theme=radical) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luannzin&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills 📖
 
