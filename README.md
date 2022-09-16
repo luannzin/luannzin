@@ -6,6 +6,8 @@ I am a web developer and UX/UI Designer, actually i am studying **web developmen
 
 _"I make what i love, i love what i make"_.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luannzin&show_icons=true&theme=radical)
+
 ## Skills 📖
 
 - HTML
