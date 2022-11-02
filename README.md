@@ -44,6 +44,10 @@ _"Today I am **better** than yesterday, and tomorrow I will be **better** than t
 
 <a href="https://www.linkedin.com/in/luan-fabri-023ba8248/" target="_blanked"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+<a href="https://www.github.com/luannzin" target="_blanked"><img src="https://img.shields.io/badge/luannzin-20232A?style=for-the-badge&logo=github&logoColor=fff"></a>
+
+
+
 
 <!--
 **luannzin/luannzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
