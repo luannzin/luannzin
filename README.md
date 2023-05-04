@@ -6,9 +6,7 @@ I am a web developer and UX/UI Designer, actually i am studying **web developmen
 
 _"I make what i love, i love what i make"_.
 
-<a href="https://www.github.com/luannzin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luannzin&show_icons=true&theme=radical"
-</a>
+
 <a href="https://www.github.com/luannzin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannzin&theme=radical&layout=compact"
 </a>
