@@ -2,19 +2,15 @@
 My name is **Luan Fabri**, 17 years old.
 
 ## About me 🎖️
-I am a web developer and UX/UI Designer, actually i am studying **web development** in a superior course and upgrading my skills.<br>
+I am a front-end developer, UX/UI Designer and actually i'm studying back-end 🚀<br>
 
-_"I make what i love, i love what i make"_.
-
-
-<a href="https://www.github.com/luannzin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannzin&theme=radical&layout=compact"
-</a>
+<strong>_"I make what i love, i love what i make"_.</strong>
 
 ## Skills 📖
 
 ### What i know
 
+<div>
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -31,6 +27,7 @@ _"I make what i love, i love what i make"_.
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
+</div>
 
 ### What i'm learning
 
