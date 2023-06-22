@@ -1,5 +1,5 @@
 # Hello Everyone 👋🏽
-My name is **Luan Fabri**, 17 years old.
+My name is **Luan Fabri**, 18 years old.
 
 ## About me 🎖️
 I am a front-end developer, UX/UI Designer and actually i'm studying back-end 🚀<br>
