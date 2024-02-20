@@ -34,7 +34,7 @@ I am a front-end developer, UX/UI Designer and actually i'm studying back-end ğŸ
 _"Today I am **better** than yesterday, and tomorrow I will be **better** than today"_
 
 ## Social Media
-<a href="https://www.instagram.com/__luannzin" target="_blanked"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<!-- <a href="https://www.instagram.com/__luannzin" target="_blanked"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
 
 <a href="https://www.linkedin.com/in/luan-fabri-023ba8248/" target="_blanked"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
