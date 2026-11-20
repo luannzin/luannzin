@@ -1,4 +1,4 @@
-<a href="https://www.luannzin.com/projects/seeded-scenes"><img src="https://www.luannzin.com/random-scene.png" alt="A landscape drawn in halftone dots, grown from a random seed" width="600"></a>
+<a href="https://www.luannzin.com/projects/seeded-scenes"><picture><source media="(prefers-reduced-motion: reduce)" srcset="https://www.luannzin.com/random-scene.png"><img src="https://www.luannzin.com/random-scene.webp" alt="A landscape drawn in halftone dots, grown from a random seed" width="600"></picture></a>
 
 I'm a front-end engineer at [Loopscape](https://loopscape.com.br), where since 2023 I've been building ERPs and multi-tenant platforms with React and Next.js. It's software people spend their whole workday in, so a button that doesn't look clickable isn't a small detail there. It's friction, all day.
 
