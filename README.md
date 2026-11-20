@@ -5,7 +5,7 @@ I'm a front-end engineer at [Loopscape](https://loopscape.com.br), where since 2
 On the side, I build open source tools for problems I keep running into, and a couple of games:
 
 - [Deskline](https://github.com/luannzin/deskline): remote desktop with no server to run. Paste a code, they accept, you see and control their screen.
-- [Sightline](https://sightline-self.vercel.app): you share your screen and get a link. Whoever opens it watches live, in the browser, with sound.
+- [Sightline](https://sightline.luannzin.com): you share your screen and get a link. Whoever opens it watches live, in the browser, with sound.
 - [echo](https://useecho.dev): the note taker that learns with you.
 - [better-intl](https://github.com/luannzin/better-intl): typed, file-based i18n for Next.js.
 - [PartyLine](https://github.com/luannzin/partyline): a party game show in your terminal. Friends join over LAN or the internet with an invite code.
